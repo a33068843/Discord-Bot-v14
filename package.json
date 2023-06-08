@@ -1,0 +1,13 @@
+{
+  "name": "Discord-Bot-v14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/a33068843/Discord-Bot-v14.git",
+  "author": "Benny Jou <a33068843@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "prettier": "^2.8.8"
+  },
+  "type": "module"
+}
